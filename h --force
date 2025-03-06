@@ -1,0 +1,29 @@
+[33mcommit dae510b3cfc416ab0bcab3d090885e79f11ec1b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: halerdol <94695990+halerdol@users.noreply.github.com>
+Date:   Tue Mar 18 04:25:32 2025 +0300
+
+    Create power.p
+
+[33mcommit 6af8066e3e0adf22e5887d482e979a1c3aa8af71[m
+Author: halerdol <94695990+halerdol@users.noreply.github.com>
+Date:   Tue Mar 18 04:24:58 2025 +0300
+
+    Create maximum_sub_array
+
+[33mcommit c0bd68d49936a047f48690af3491d1d330c45741[m
+Author: halerdol <94695990+halerdol@users.noreply.github.com>
+Date:   Tue Mar 18 04:23:48 2025 +0300
+
+    Create maximum_alt_dizi_toplamı
+
+[33mcommit bd2986d3e1438b11a2b8a901e62b1022d9b9fd29[m
+Author: halerdol <94695990+halerdol@users.noreply.github.com>
+Date:   Tue Mar 18 04:22:36 2025 +0300
+
+    Create insertion_sort.p
+
+[33mcommit 41e77d1854a07094a5633f8d7334aff4007f5ef8[m
+Author: halerdol <94695990+halerdol@users.noreply.github.com>
+Date:   Tue Mar 18 04:21:36 2025 +0300
+
+    Create bubble_sort.p
